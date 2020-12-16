@@ -1,0 +1,10 @@
+.puzzleGridContainer {
+	position:relative;
+	display:block;
+	}
+
+.puzzleGridContainer .panel {
+	position:absolute;
+	display:block;
+	box-sizing:border-box;
+	}
